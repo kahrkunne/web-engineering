@@ -1,3 +1,4 @@
+// Tutorial: Implement site history
 import Vue from 'vue'
 import Vuex from 'vuex'
 
