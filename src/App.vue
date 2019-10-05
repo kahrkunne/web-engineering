@@ -12,5 +12,12 @@
 </template>
 
 <style>
+ .green {
+   color: green;
+ }
+
+ .red {
+   color: red;
+ }
  /* This style will apply to everything */
 </style>

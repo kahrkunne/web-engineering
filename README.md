@@ -20,6 +20,7 @@
 5. make component for popular repos ->
     1. props
     2. comment on data flow in props; mention v-model, custom events
+    3. v-if, class bindings
     3. import component in Popular.vue
 6. back to router.js -> dynamic routing
 7. User.vue
@@ -31,4 +32,14 @@
     3. User.vue
     4. Make component that shows favorites
 
+## Further reading
+### Official documentation
+Vue Guide - https://vuejs.org/v2/guide
+Vue Router - https://router.vuejs.org/
+Vuex - https://vuex.vuejs.org/
+### Tooling
+Vue CLI - https://cli.vuejs.org/
+Vue devtools - https://github.com/vuejs/vue-devtools
+### Ecoysystem
+Nuxt - https://nuxtjs.org/
 
