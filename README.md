@@ -35,10 +35,13 @@
 ## Further reading
 ### Official documentation
 Vue Guide - https://vuejs.org/v2/guide
+
 Vue Router - https://router.vuejs.org/
+
 Vuex - https://vuex.vuejs.org/
 ### Tooling
 Vue CLI - https://cli.vuejs.org/
+
 Vue devtools - https://github.com/vuejs/vue-devtools
 ### Ecoysystem
 Nuxt - https://nuxtjs.org/
